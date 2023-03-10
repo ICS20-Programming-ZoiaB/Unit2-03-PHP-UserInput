@@ -38,7 +38,7 @@
 <div id="result"></div>
     <center>
       <iframe id="result" name="result">
-				Your first name is <?php echo $_POST["first-name"]; ?> and your age is <?php echo $_POST["age"]; ?>.
+				Your street name is <?php echo $_POST["street-name"]; ?> and your street number is <?php echo $_POST["street-number"]; ?>.
       </iframe>
     </center>
   </body>
